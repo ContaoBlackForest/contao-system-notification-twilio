@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/system-notification-twilio/languages/en/tl_system_notification.php" source-language="en" target-language="de">
+        <body>
+            <trans-unit id="tl_system_notification.messageSmsMms.0">
+                <source>Text SMS/MMS message</source>
+                <target>Text SMS/MMS Benachrichtigung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.messageSmsMms.1">
+                <source>The notification that will be sent by SMS/MMS. You can use simple tokens and the insert tags.</source>
+                <target>Die Benachrichtung der per SMS/MMS versendet wird. Es können die Simple Tokens und die Insert Tags benutzt werden.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.twilio">
+                <source>Twilio service</source>
+                <target>Twilio Dienst</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.twilioSms">
+                <source>Text sms notification</source>
+                <target>Text SMS Benachrichtigung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.twilioMms">
+                <source>Text mms notification</source>
+                <target>Text MMS Benachrichtigung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.account.0">
+                <source>Account</source>
+                <target>Konto</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.account.1">
+                <source>The user account from your SMS/MMS serivce.</source>
+                <target>Das Benutzerkonto von dem verwendeten SMS/MMS Dienst.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.secret.0">
+                <source>Secret key</source>
+                <target>Sicherheitsschlüssel</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.secret.1">
+                <source>The user secret key from your SMS/MMS serivce.</source>
+                <target>Der Benutzer Sicherheitsschlüssel von dem verwendeten SMS/MMS Dienst.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.phoneFrom.0">
+                <source>Phone number from</source>
+                <target>Telefonnummer von</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.phoneFrom.1">
+                <source>The phone from where send the system notification.</source>
+                <target>Die Telefonnummer von der aus die System Benachrichtung geschickt wird.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.phoneTo.0">
+                <source>Phone number to</source>
+                <target>Telefonnummer an</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.phoneTo.1">
+                <source>The phone to send the system notification.</source>
+                <target>Die Telefonnummer zu der die System Benachrichtung geschickt wird.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.messageSmsMms.0">
+                <source>Text SMS/MMS message </source>
+                <target>Text SMS/MMS Nachricht</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.messageSmsMms.1">
+                <source>The notification that will be sent by SMS/MMS. You can use simple tokens and the insert tags.</source>
+                <target>Die Benachrichtung der per SMS/MMS versendet wird. Es können die Simple Tokens und die Insert Tags benutzt werden.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
